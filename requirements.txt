@@ -1,0 +1,4 @@
+# Python standart kütüphanesi kullanılıyor, ekstra paket yok.
+# Ancak yine de boş bırakmak yerine tkinter uyumluluğu için şunu yazabiliriz.
+
+tk
